@@ -1,2 +1,2 @@
 # Slack-bot-implementation
-Slack bot for Forex conversion
+This repo is created to check-in code for a simple implementation of Slack bot for Forex conversion.
