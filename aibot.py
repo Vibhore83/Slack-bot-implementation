@@ -22,7 +22,7 @@ botid = config_data['BOT_ID']
 c = CurrencyRates()
 b = BtcConverter()
 
-# constants
+# Declare constants
 AT_BOT = "<@" + botid + ">"
 slack_client = SlackClient(token)
 
